@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lab-intro-to-bootstrap-w-react/static/css/main.7fbce186.css",
+    "main.js": "/lab-intro-to-bootstrap-w-react/static/js/main.7c355456.js",
+    "index.html": "/lab-intro-to-bootstrap-w-react/index.html",
+    "main.7fbce186.css.map": "/lab-intro-to-bootstrap-w-react/static/css/main.7fbce186.css.map",
+    "main.7c355456.js.map": "/lab-intro-to-bootstrap-w-react/static/js/main.7c355456.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fbce186.css",
+    "static/js/main.7c355456.js"
+  ]
+}
